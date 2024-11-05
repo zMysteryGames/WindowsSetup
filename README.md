@@ -1,2 +1,2 @@
 # WindowsSetup
-An install script that installs Chocolatey and a couple of apps I want on a fresh system
+InstallChocoAndApps.ps1 is an install-script that installs [Chocolatey](https://chocolatey.org/install) and a couple of apps I want on a fresh system.
